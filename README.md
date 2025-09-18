@@ -1,6 +1,7 @@
 # Arch Linux Dotfiles 
 
-
+### Example of my config
+![Alt text](https://raw.githubusercontent.com/SamarthZalkikar/archlinux_dotfiles/main/ScreenShot.png)
 
 
 ### TODO
